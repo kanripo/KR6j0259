@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:59.249012
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:42
 #+TITLE: 千手千眼觀世音菩薩治病合藥經
 #+PROPERTY: CBETA_ID T20n1059
 #+PROPERTY: ID KR6j0259
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1059
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0259_T_000-0103c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0259_T_001-0103c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1059¶
-
- 千手千眼觀世音菩薩治病合藥¶
+No. 1059¶
+千手千眼觀世音菩薩治病合藥¶
 經¶
 ¶
 西天竺國三藏伽梵達摩奉　詔譯¶
